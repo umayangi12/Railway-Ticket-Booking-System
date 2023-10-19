@@ -1,0 +1,67 @@
+﻿<Properties StartupConfiguration="{309BADDC-B2D1-48FD-8B11-6288A0DDC52A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebApplication1 PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication1/Data/ITicketReservationContext.cs">
+    <Files>
+      <File FileName="WebApplication1/Services/UserSerice.cs" Line="41" Column="10" />
+      <File FileName="WebApplication1/Services/IUserService.cs" Line="14" Column="32" />
+      <File FileName="WebApplication1/Controllers/MobileUserController.cs" Line="150" Column="47" />
+      <File FileName="WebApplication1/Controllers/TicketResController.cs" />
+      <File FileName="WebApplication1/Services/ITicketResService.cs" Line="17" Column="18" />
+      <File FileName="WebApplication1/Controllers/TrainResController.cs" Line="67" Column="42" />
+      <File FileName="WebApplication1/Services/ReservationService.cs" />
+      <File FileName="WebApplication1/Services/ITrainResService.cs" Line="16" Column="17" />
+      <File FileName="WebApplication1/Services/TicketResService.cs" />
+      <File FileName="WebApplication1/Controllers/ReservationController.cs" Line="102" Column="1" />
+      <File FileName="WebApplication1/Controllers/UserController.cs" />
+      <File FileName="WebApplication1/Services/TrainResService.cs" Line="17" Column="43" />
+      <File FileName="WebApplication1/Services/IReservationService.cs" />
+      <File FileName="WebApplication1/Models/TrainRes.cs" Line="30" Column="1" />
+      <File FileName="WebApplication1/Models/IUserMobileStoreDatabaseSetting.cs" Line="1" Column="1" />
+      <File FileName="WebApplication1/Models/ITrainResStoreDatabaseSetting.cs" Line="16" Column="1" />
+      <File FileName="WebApplication1/appsettings.json" Line="24" Column="32" />
+      <File FileName="WebApplication1/Program.cs" Line="36" Column="36" />
+      <File FileName="WebApplication1/Models/Reservation.cs" Line="1" Column="1" />
+      <File FileName="WebApplication1/Models/TicketRes.cs" Line="1" Column="1" />
+      <File FileName="WebApplication1/Models/TicketResStoreDatabaseSetting.cs" Line="16" Column="1" />
+      <File FileName="WebApplication1/Models/TrainResStoreDatabaseSetting.cs" Line="16" Column="1" />
+      <File FileName="WebApplication1/Repository/UserRepository.cs" Line="1" Column="1" />
+      <File FileName="WebApplication1/ViewModel/User/LoginViewModel.cs" Line="1" Column="1" />
+      <File FileName="WebApplication1/Repository/IUserRepository.cs" Line="1" Column="1" />
+      <File FileName="WebApplication1/Models/User.cs" Line="1" Column="1" />
+      <File FileName="WebApplication1/Data/TicketReservationContext.cs" Line="1" Column="1" />
+      <File FileName="WebApplication1/Data/UpdateUser.cs" Line="1" Column="1" />
+      <File FileName="WebApplication1/Data/ITicketReservationContext.cs" Line="1" Column="1" />
+      <File FileName="WebApplication1/ViewModel/Response/UserAuthenticationMetaDataVIewModel.cs" Line="25" Column="40" />
+      <File FileName="WebApplication1/ViewModel/Response/ResponseViewModel.cs" Line="1" Column="1" />
+      <File FileName="WebApplication1/ViewModel/UserViewModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication1" expanded="True">
+            <Node name="WebApplication1" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="ITicketReservationContext.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModel" expanded="True">
+                <Node name="Response" expanded="True" />
+                <Node name="User" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
