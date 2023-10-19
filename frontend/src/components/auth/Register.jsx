@@ -268,7 +268,7 @@ const Register = () => {
               </h1>
 
               <p className="px-3" style={{ color: "hsl(218, 81%, 85%)" }}>
-                Join TrackMaster, your gateway to unparalleled railway
+                Join TicketTraverse, your gateway to unparalleled railway
                 management. As a back-office user, you'll enjoy a streamlined
                 experience in overseeing bookings, optimizing schedules, and
                 ensuring a delightful journey for every passenger. Let's
